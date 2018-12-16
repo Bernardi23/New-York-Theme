@@ -5,11 +5,14 @@
 }
 
 .sidebar, .title, .tabs {
-  font-family: "SF Pro Display" !important;
+  font-family: "SF Pro Text" !important;
   font-weight: 400 !important;
 }
 
-
+.monaco-tree-row {
+  margin-bottom: 10px !important;
+  font-size: 11px;
+}
 
 .editor-one .monaco-editor{
 height: 100% !important;
