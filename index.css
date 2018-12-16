@@ -1,0 +1,234 @@
+
+.editor-one {
+  font-family: "Segoe UI" !important;
+  height: 100% !important;
+  max-width: 50% !important;
+  min-width: 50% !important;
+}
+
+
+
+.editor-one .monaco-editor{
+height: 100% !important;
+min-width: 100% !important;
+overflow: hidden !important;
+}
+
+.editor-one .overflow-guard{
+width: 99% !important;
+margin: 0px !important;
+}
+
+.editor-one .editor-scrollable{
+max-width: 50% !important;
+}
+
+.editor-one .lines-content, .editor-one .view-lines{
+max-width: 100% !important;
+min-width: 100% !important;
+left: 0px !important;
+}
+
+.editor-two{
+height: 50% !important;
+left: 50% !important;
+top: 0% !important;
+max-width: 50% !important;
+min-width: 50% !important;
+max-height: 50% !important;
+min-height: 50% !important;
+border-bottom: 1px solid gray !important;
+}
+.editor-three{
+height: 50% !important;
+left: 50% !important; 
+bottom: 0% !important;
+max-width: 50% !important;
+min-width: 50% !important;
+max-height: 50% !important;
+min-height: 50% !important;
+}
+
+.editor-two .editor-container, .editor-three .editor-container{
+min-width: 100% !important;
+max-width: 100% !important;
+}
+
+.editor-container > .monaco-editor{
+min-width: 100% !important;
+max-width: 100% !important;
+min-height: 100% !important;
+max-height: 100% !important;
+}
+
+.editor-two .overflow-guard, .editor-three .overflow-guard{
+left: 0px !important;
+right: 0px !important;
+top: 0px !important;
+bottom: 0px !important;
+min-width: 100% !important; 
+max-width: 100% !important;
+min-height: 100% !important;
+max-height: 100% !important;
+}
+
+.editor-two .monaco-scrollable-element.editor-scrollable, .editor-three .monaco-scrollable-element.editor-scrollable{
+max-height: 99% !important;
+width: 99% !important;
+
+}
+
+.editor-one .monaco-scrollable-element.editor-scrollable{
+min-width: 90% !important;
+max-width: 90% !important;
+}
+
+.editor-two .view-overlays, .editor-three .view-overlays{
+min-width: 99% !important;
+}
+
+.editor-two .monaco-editor, .editor-three .monaco-editor{
+max-height: 50% !important;
+overflow: hidden !important;
+max-width: 100% !important;
+min-width: 100% !important;
+}
+
+.editor-two .margin-view-overlays, .editor-three .margin-view-overlays{
+max-height: 100% !important;
+}
+
+.editor-one .monaco-sash.vertical, .editor-two .monaco-sash.vertical, .editor-three .monaco-sash.vertical{
+position: relative;
+left: 99% !important;
+}
+
+.preferences-editors-container .monaco-sash.vertical{
+position: absolute;
+}
+
+.editor-two .lines-content, .editor-three .lines-content{
+max-width: 100% !important;
+left: 0px !important;
+overflow: visible !important;
+max-height: 100% !important;
+min-height: 100% !important;
+/* scroll-behavior: smooth !important; */
+}
+
+.editor-two .view-lines, .editor-three .view-lines{
+max-height: 100% !important;
+min-height: 100% !important;
+}
+.editor-two .monaco-scrollable-element, .editor-three .monaco-scrollable-element{
+max-width: 90% !important;
+min-width: 90% !important;
+overflow: visible !important;
+}
+
+.editor-two canvas, .editor-three canvas{
+max-height: 50% !important;
+min-height: 50% !important;
+}
+
+.editor-two .scrollbar.vertical{
+transform: scale(1, .5) !important;
+transform-origin: 0% 0% !important;
+/* min-height: 100% !important;
+max-height: 100% !important; */
+}
+
+.editor-three .scrollbar.vertical{
+transform: scale(1, .5) !important;
+transform-origin: 0% 0% !important;
+/* min-height: 100% !important;
+max-height: 100% !important; */
+}
+
+.editor-two .decorationsOverviewRuler{
+/* transform: scale(1, 1) !important;
+transform-origin: 0% 0% !important; */
+min-height: 100% !important;
+max-height: 100% !important;
+}
+
+.editor-three .decorationsOverviewRuler{
+/* transform: scale(1, 1) !important;
+transform-origin: 0% 0% !important; */
+min-height: 100% !important;
+max-height: 100% !important;
+}
+
+.editor-two .slider{
+transform: scale(1, 0.5) !important;
+transform-origin: 0% 0% !important;
+/* position: relative !important; */
+
+}
+
+.editor-three .slider{
+/* position: relative !important; */
+/* transform-origin: 0% -24% !important; */
+transform: scale(1, 0.5) !important;
+transform-origin: 0% 0% !important;
+}
+
+.editor-two .title.tabs, .editor-three .title.tabs{
+min-width: 95% !important;
+max-width: 95% !important;
+overflow: visible !important;
+}
+
+.editor-two .scrollbar.horizontal, .editor-three .scrollbar.horizontal, .editor-one .scrollbar.horizontal{
+display: none !important;
+}
+
+.editor-two .margin, .editor-three .margin, .editor-two .glyph-margin, .editor-three .glyph-margin{
+max-height: 100% !important;
+min-height: 100% !important;
+overflow-y: visible !important;
+/* top: 0px !important; */
+}
+
+
+/* Visual tweaks */
+.send-feedback, .octicon-paintcan{
+display: none !important;
+}
+
+.action-label.debug{
+background-color:  #FF0063 !important;
+}
+
+.action-label.scm{
+background-color: #FF6900 !important;
+}
+
+.action-label.explore{
+background-color: #ECFF00 !important;
+}
+
+.action-label.extensions{
+background-color: #00B7DF !important;
+}
+
+.statusbar{
+background-color: rgb(119, 0, 152) !important;
+}
+
+.action-item.checked{
+border: 1px dashed rgba(255, 255, 255, 0.35) !important;
+border-radius: 100% !important;
+}
+
+.task-statusbar-item-label-error.mask-icon{
+background-color: rgb(255, 0, 0) !important;
+}
+
+.task-statusbar-item-label-warning.mask-icon{
+background-color: #FFE700 !important;
+}
+
+.statusbar-item.right.statusbar-entry a[title="Toggle Integrated Terminal"]{
+color: #00FF1A !important;
+}
