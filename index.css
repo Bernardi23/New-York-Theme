@@ -1,12 +1,11 @@
 .editor-one {
-  font-family: "Segoe UI" !important;
   height: 100% !important;
   max-width: 50% !important;
   min-width: 50% !important;
 }
 
 .sidebar, .title, .tabs {
-  font-family: "Segoe UI" !important;
+  font-family: sans-serif !important;
 }
 
 
