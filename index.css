@@ -5,6 +5,10 @@
   min-width: 50% !important;
 }
 
+.sidebar, .title, .tabs {
+  font-family: "Segoe UI" !important;
+}
+
 
 
 .editor-one .monaco-editor{
