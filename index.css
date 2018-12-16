@@ -5,7 +5,8 @@
 }
 
 .sidebar, .title, .tabs {
-  font-family: sans-serif !important;
+  font-family: "SF Pro Display" !important;
+  font-weight: 500 !important;
 }
 
 
