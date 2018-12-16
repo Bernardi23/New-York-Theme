@@ -1,3 +1,7 @@
+* {
+  font-family: "Segoe UI"
+}
+
 
 .editor-one {
   font-family: "Segoe UI" !important;
@@ -196,39 +200,6 @@ overflow-y: visible !important;
 display: none !important;
 }
 
-.action-label.debug{
-background-color:  #FF0063 !important;
-}
 
-.action-label.scm{
-background-color: #FF6900 !important;
-}
 
-.action-label.explore{
-background-color: #ECFF00 !important;
-}
 
-.action-label.extensions{
-background-color: #00B7DF !important;
-}
-
-.statusbar{
-background-color: rgb(119, 0, 152) !important;
-}
-
-.action-item.checked{
-border: 1px dashed rgba(255, 255, 255, 0.35) !important;
-border-radius: 100% !important;
-}
-
-.task-statusbar-item-label-error.mask-icon{
-background-color: rgb(255, 0, 0) !important;
-}
-
-.task-statusbar-item-label-warning.mask-icon{
-background-color: #FFE700 !important;
-}
-
-.statusbar-item.right.statusbar-entry a[title="Toggle Integrated Terminal"]{
-color: #00FF1A !important;
-}
