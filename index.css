@@ -4,9 +4,10 @@
   min-width: 50% !important;
 }
 
-.sidebar, .title, .tabs * {
-  font-family: "Poppins" !important;
+.sidebar, .title, .tabs, .monaco-tree-row * {
+  font-family: "SF Pro Text" !important;
   font-weight: 400 !important;
+  font-size: 12px !important;
 }
 
 .monaco-tree-row * {
