@@ -4,7 +4,7 @@
   min-width: 50% !important;
 }
 
-* {
+.activitybar, .sidebar, .titlebar * {
   font-family: "Arial" !important;
   font-weight: 400 !important;
   font-size: 8px !important;
