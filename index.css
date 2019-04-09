@@ -11,6 +11,12 @@
   font-size: 11px !important;
 }
 
+.monaco-tree-row * {
+  font-family: "SF Pro Text" !important;
+  font-weight: 400 !important;
+  font-size: 11px !important;
+}
+
 .monaco-tree-row {
   margin-bottom: 10px;
 }
