@@ -13,6 +13,7 @@
 .monaco-list-row {
   margin-bottom: 5px !important;
   font-size: 13px !important;
+  color: red;
 }
 
 .editor-one .monaco-editor{
