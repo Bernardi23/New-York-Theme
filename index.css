@@ -4,21 +4,6 @@
   min-width: 50% !important;
 }
 
-.activitybar, .sidebar, .titlebar * {
-  font-family: "Arial";
-  font-weight: 400 !important;
-  font-size: 11px !important;
-}
-
-.monaco-tree-row * {
-
-}
-
-.monaco-tree-row {
-  font-family: "Comic-Sans" !important;
-  margin-bottom: 10px;
-
-}
 
 .editor-one .monaco-editor{
 height: 100% !important;
