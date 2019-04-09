@@ -6,7 +6,7 @@
 
 
 .activitybar, .sidebar, .titlebar * {
-  font-family: "SF Pro Text";
+  font-family: "SF Pro Text" !important;
   font-weight: 400 !important;
   font-size: 11px !important;
 }
