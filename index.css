@@ -10,7 +10,7 @@
   font-size: 10px;
 }
 
-.monaco-tree-rows * {
+.monaco-tree-row * {
   font-size: 10px !important;
   font-family: "Poppins" !important;
   font-weight: 400 !important;
@@ -18,7 +18,6 @@
 
 .monaco-tree-row {
   margin-bottom: 10px;
-  font-size: 10px;
 
 }
 
