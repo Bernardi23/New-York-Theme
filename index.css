@@ -5,9 +5,9 @@
 }
 
 .activitybar, .sidebar, .titlebar * {
-  font-family: "Arial" !important;
+  font-family: "Arial";
   font-weight: 400 !important;
-  font-size: 8px !important;
+  font-size: 11px !important;
 }
 
 .monaco-tree-row * {
