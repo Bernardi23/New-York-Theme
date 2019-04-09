@@ -4,7 +4,7 @@
   min-width: 50% !important;
 }
 
-.sidebar, .title, .tabs,  {
+.sidebar, .title, .tabs * {
   font-family: "Poppins" !important;
   font-weight: 400 !important;
   font-size: 30px;
