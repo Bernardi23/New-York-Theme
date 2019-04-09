@@ -4,7 +4,7 @@
   min-width: 50% !important;
 }
 
-.sidebar, .title, .tabs, .monaco-tree-row * {
+* {
   font-family: "Comic Sans" !important;
   font-weight: 400 !important;
   font-size: 8px !important;
