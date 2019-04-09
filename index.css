@@ -4,16 +4,23 @@
   min-width: 50% !important;
 }
 
-.sidebar, .title, .tabs, .monaco-tree-rows * {
-  font-family: "SF Pro Text" !important;
+.sidebar, .title, .tabs,  {
+  font-family: "Poppins" !important;
   font-weight: 400 !important;
   color: red;
+  font-size: 10px;
+}
+
+.monaco-tree-rows * {
+  font-size: 5px !important;
+  color: red !important;
+  font-family: "Poppins" !important;
+  font-weight: 400 !important;
 }
 
 .monaco-tree-row {
-  margin-bottom: 10px !important;
-  font-size: 13px !important;
-  color: red;
+  margin-bottom: 10px;
+
 }
 
 .editor-one .monaco-editor{
