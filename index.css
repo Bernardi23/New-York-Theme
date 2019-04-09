@@ -4,14 +4,14 @@
   min-width: 50% !important;
 }
 
-.sidebar, .title, .tabs, split-view-container * {
+.sidebar, .title, .tabs, .monaco-tree-rows * {
   font-family: "SF Pro Text" !important;
   font-weight: 400 !important;
   color: red;
 }
 
-.monaco-list-row {
-  margin-bottom: 20px !important;
+.monaco-tree-row {
+  margin-bottom: 2px !important;
   font-size: 13px !important;
 }
 
