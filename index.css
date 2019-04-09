@@ -5,7 +5,7 @@
 }
 
 * {
-  font-family: "Comic Sans" !important;
+  font-family: "Arial" !important;
   font-weight: 400 !important;
   font-size: 8px !important;
 }
@@ -15,6 +15,7 @@
 }
 
 .monaco-tree-row {
+  font-family: "Comic-Sans" !important;
   margin-bottom: 10px;
 
 }
