@@ -5,6 +5,16 @@
 }
 
 
+.activitybar, .sidebar, .titlebar * {
+  font-family: "SF Pro Text";
+  font-weight: 400 !important;
+  font-size: 11px !important;
+}
+
+.monaco-tree-row {
+  margin-bottom: 10px;
+}
+
 .editor-one .monaco-editor{
 height: 100% !important;
 min-width: 100% !important;
