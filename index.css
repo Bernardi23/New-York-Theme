@@ -7,13 +7,11 @@
 .sidebar, .title, .tabs,  {
   font-family: "Poppins" !important;
   font-weight: 400 !important;
-  color: red;
   font-size: 10px;
 }
 
 .monaco-tree-rows * {
-  font-size: 5px !important;
-  color: red !important;
+  font-size: 10px !important;
   font-family: "Poppins" !important;
   font-weight: 400 !important;
 }
