@@ -11,8 +11,9 @@
 }
 
 .monaco-tree-row {
-  margin-bottom: 2px !important;
+  margin-bottom: 10px !important;
   font-size: 13px !important;
+  color: red;
 }
 
 .editor-one .monaco-editor{
