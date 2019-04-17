@@ -1,11 +1,5 @@
 {
 
-	"vscode_custom_css.imports": [
-		"https://raw.githubusercontent.com/Bernardi23/custom-css/master/index.css",
-		"https://gist.githubusercontent.com/JeremyKruman/779e6c77b8b614d8d2a49c990f333592/raw/b1bf008474002177c286589b97711e57e1912ab0/2WaySplit.js"
-	],
-	"vscode_custom_css.policy": true,
-
 	// Code settings
 	"editor.fontFamily": "SF Mono",
 	"editor.fontSize": 15,
