@@ -2,7 +2,7 @@
 
 This is a Dark theme inspired by [Gloom Dark](https://marketplace.visualstudio.com/items?itemName=8757043a-2b24-42c2-9de6-233a1f5267f3.gloom-dark). In order to achieve the result of the screenshot, check this [VSCode pull request](https://github.com/Microsoft/vscode/pull/52707) from Github. Also, this theme was intended to be used with a dark Wallpaper.
 
-![New York Theme](./dark.PNG)
+![New York Theme](https://user-images.githubusercontent.com/36115642/56256852-c1903c80-60a0-11e9-8ff3-88bef7472980.PNG)
 
 ### Some other information:
 
