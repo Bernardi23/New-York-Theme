@@ -1,0 +1,64 @@
+{
+
+	"vscode_custom_css.imports": [
+		"https://raw.githubusercontent.com/Bernardi23/custom-css/master/index.css",
+		"https://gist.githubusercontent.com/JeremyKruman/779e6c77b8b614d8d2a49c990f333592/raw/b1bf008474002177c286589b97711e57e1912ab0/2WaySplit.js"
+	],
+	"vscode_custom_css.policy": true,
+
+	// Code settings
+	"editor.fontFamily": "SF Mono",
+	"editor.fontSize": 15,
+	"editor.fontWeight": "500",
+	"editor.fontLigatures": true,
+	"editor.lineHeight": 35,
+	"editor.tabSize": 2,
+	"editor.lineNumbers": "off",
+	"editor.renderIndentGuides": false,
+	"editor.renderWhitespace": "none",
+	"breadcrumbs.enabled": false,
+	"editor.renderControlCharacters": false,
+	"editor.minimap.enabled": false,
+
+	// Mouse related settings
+	"editor.smoothScrolling": true,
+	"editor.mouseWheelScrollSensitivity": 2,
+	"editor.scrollBeyondLastLine": true,
+	"editor.cursorStyle": "block",
+	"editor.cursorBlinking": "phase",
+	"editor.cursorSmoothCaretAnimation": true,
+	"editor.cursorWidth": 2,
+
+	// Explorer settings
+	"explorer.openEditors.visible": 0,
+	"explorer.confirmDelete": false,
+	"explorer.decorations.badges": false,
+	"problems.decorations.enabled": false,
+	"workbench.sideBar.location": "left",
+
+
+	// UI Settings
+	"window.zoomLevel": 1,
+	"window.menuBarVisibility": "toggle",
+	"workbench.statusBar.visible": true,
+	"workbench.activityBar.visible": true,
+
+	// Terminal
+	"terminal.integrated.fontFamily": "SF Mono",
+	"terminal.integrated.cursorStyle": "block",
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.fontWeight": "500",
+	"code-runner.runInTerminal": true,
+  
+	"editor.formatOnSave": true,
+	"workbench.startupEditor": "none",
+	"editor.detectIndentation": true,
+	"editor.insertSpaces": false,
+	"terminal.integrated.rendererType": "dom",
+
+	"files.autoSave": "onWindowChange",
+	"window.compositionAttribute": "acrylic",
+	"workbench.iconTheme": "vscode-seedling-icon-theme",
+	"workbench.colorTheme": "New York",
+
+}
