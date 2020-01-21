@@ -78,7 +78,7 @@
 		"terminal.ansiCyan": "#00d0ff",
 		"terminal.ansiGreen": "#c82fbd",
 		"terminal.ansiYellow": "#4cde7f",
-		"terminal.background": "#45454500",
+		"terminal.background": "#1b1a23",
 		"terminal.foreground": "#d9d9d9",
 		"terminalCursor.foreground": "#fcfcfc",
 		"titleBar.activeBackground": "#100d1f72",
